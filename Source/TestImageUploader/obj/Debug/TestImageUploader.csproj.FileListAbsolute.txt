@@ -1,0 +1,18 @@
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\TestImageUploader.exe.config
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\TestImageUploader.exe
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\TestImageUploader.pdb
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\ImageUploader.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\CloudinaryDotNet.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Newtonsoft.Json.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\ImageUploader.pdb
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Newtonsoft.Json.xml
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\obj\Debug\TestImageUploader.csprojResolveAssemblyReference.cache
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\obj\Debug\TestImageUploader.exe
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\TestImageUploader\obj\Debug\TestImageUploader.pdb
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\ImageUploader.ifd
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Data\DefaultAssets\DefaultImage.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Data\DefaultAssets\DefaultMinimized.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Data\Images\handle_released_1.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Default Cloudinary IA.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\logo-cloudinary.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Debug\Default Cloudinary IA.dax

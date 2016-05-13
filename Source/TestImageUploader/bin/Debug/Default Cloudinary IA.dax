@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mashup ApiNumber="17" Name="Default Cloudinary IA" Description="" Category="Cloudinary" Author="IntuiLab S.A" AuthorId="IntuiLab" Icon="Default Cloudinary IA.png" OriginalLocalPath=".\Local" OriginalDataPath=".\Data" OriginalProcessID="1436" OriginalXpId="1-09250e5a-60a4-4377-9142-bfe95284c649">
+  <MashupSpace ContextAlias="CURRENT_SPACE" Name="mashup_root_0" OriginalAbsoluteVisualPath="player://visuals/Project 70/Scene 1">
+    <Space Name="Scene 1" AutoReset="false" BackgroundColor="#FF000000" />
+  </MashupSpace>
+  <MashupCollection Name="mashup_root_1" OriginalAbsoluteVisualPath="player://visuals/Project 70/Scene 1/Middle/Default_template_for_Text_to_speech" CreateAsCollectionSibling="true">
+    <Collection Name="Default_template_for_Text_to_speech" Visual="Group" Style="" Container="Default" ContainerStyle="">
+      <Properties>
+        <Property Type="Visual" Name="Axis"><![CDATA[value:Vertical]]></Property>
+        <Property Type="Visual" Name="ItemWidth"><![CDATA[value:800]]></Property>
+        <Property Type="Visual" Name="ItemHeight"><![CDATA[value:50]]></Property>
+        <Property Type="Visual" Name="BackgroundFlat"><![CDATA[value:True]]></Property>
+        <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+        <Property Type="Container" Name="MinWidth"><![CDATA[value:50]]></Property>
+        <Property Type="Container" Name="MinHeight"><![CDATA[value:50]]></Property>
+        <Property Type="Container" Name="MaxWidth"><![CDATA[value:4000]]></Property>
+        <Property Type="Container" Name="MaxHeight"><![CDATA[value:4000]]></Property>
+        <Property Type="Container" Name="AllowResize"><![CDATA[value:False]]></Property>
+        <Property Type="Container" Name="X"><![CDATA[value:415]]></Property>
+        <Property Type="Container" Name="Y"><![CDATA[value:289]]></Property>
+        <Property Type="Container" Name="Width"><![CDATA[value:628]]></Property>
+        <Property Type="Visual" Name="InitialWidth"><![CDATA[value:628]]></Property>
+        <Property Type="Container" Name="Height"><![CDATA[value:428]]></Property>
+        <Property Type="Visual" Name="InitialHeight"><![CDATA[value:428]]></Property>
+        <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+      </Properties>
+      <Asset Name="Background" Visual="DefaultRectangle" Style="" Container="Default" ContainerStyle="" Domain="value:Rectangle">
+        <Properties>
+          <Property Type="Visual" Name="BorderThickness"><![CDATA[value:0]]></Property>
+          <Property Type="Visual" Name="BorderColor"><![CDATA[value:#00000000]]></Property>
+          <Property Type="Visual" Name="BackgroundColor"><![CDATA[value:#D9D0D0D0]]></Property>
+          <Property Type="Visual" Name="CornerRadius"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:314]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:628]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:214]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:428]]></Property>
+        </Properties>
+      </Asset>
+      <Asset Name="Handle indicator top" Visual="DefaultImage" Style="" Container="Default" ContainerStyle="" Domain="value:Image">
+        <Properties>
+          <Property Type="Domain" Name="Source"><![CDATA[player://resources/2354050c-1f04-49f7-8af4-70413953e9a9]]></Property>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:314]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:54]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:28]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:54]]></Property>
+        </Properties>
+      </Asset>
+      <Collection Name="Success Group" Visual="Group" Container="Default" ContainerStyle="">
+        <Properties>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="IsVisible"><![CDATA[value:False]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:312]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:580]]></Property>
+          <Property Type="Visual" Name="InitialWidth"><![CDATA[value:580]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:359]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:94]]></Property>
+          <Property Type="Visual" Name="InitialHeight"><![CDATA[value:94]]></Property>
+        </Properties>
+        <Asset Name="Image URL:" Visual="DefaultText" Style="" Container="Scale" ContainerStyle="" Domain="value:Text">
+          <Properties>
+            <Property Type="Visual" Name="FontColor"><![CDATA[value:#FF262626]]></Property>
+            <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+            <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+            <Property Type="Visual" Name="FontSize"><![CDATA[value:20]]></Property>
+            <Property Type="Visual" Name="Alignment"><![CDATA[value:Left]]></Property>
+            <Property Type="Visual" Name="VerticalAlignment"><![CDATA[value:Center]]></Property>
+            <Property Type="Visual" Name="Font">
+              <Typeface>
+                <Family>Verdana</Family>
+                <Stretch>normal</Stretch>
+                <Weight>400</Weight>
+                <Style>normal</Style>
+              </Typeface>
+            </Property>
+            <Property Type="Visual" Name="Italic"><![CDATA[value:True]]></Property>
+            <Property Type="Domain" Name="Text"><![CDATA[value:Image URL:]]></Property>
+            <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+            <Property Type="Container" Name="X"><![CDATA[value:63.272727272727273]]></Property>
+            <Property Type="Container" Name="Width"><![CDATA[value:125.58677685950414]]></Property>
+            <Property Type="Container" Name="Y"><![CDATA[value:45]]></Property>
+            <Property Type="Container" Name="Height"><![CDATA[value:90]]></Property>
+          </Properties>
+        </Asset>
+        <Asset Name="[Image URL]" Visual="DefaultText" Style="" Container="Scale" ContainerStyle="" Domain="value:Text">
+          <Properties>
+            <Property Type="Visual" Name="FontColor"><![CDATA[value:#FF262626]]></Property>
+            <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+            <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+            <Property Type="Visual" Name="Alignment"><![CDATA[value:Left]]></Property>
+            <Property Type="Visual" Name="Font">
+              <Typeface>
+                <Family>Verdana</Family>
+                <Stretch>normal</Stretch>
+                <Weight>400</Weight>
+                <Style>normal</Style>
+              </Typeface>
+            </Property>
+            <Property Type="Visual" Name="Italic"><![CDATA[value:True]]></Property>
+            <Property Type="Domain" Name="Text"><![CDATA[mashup://externals/Cloudinary%20Image%20Uploader/LastUploadedImageURL]]></Property>
+            <Property Type="Visual" Name="FontSize"><![CDATA[value:14]]></Property>
+            <Property Type="Visual" Name="VerticalAlignment"><![CDATA[value:Center]]></Property>
+            <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+            <Property Type="Container" Name="X"><![CDATA[value:353.95867768595]]></Property>
+            <Property Type="Container" Name="Width"><![CDATA[value:445.78512396694214]]></Property>
+            <Property Type="Container" Name="Y"><![CDATA[value:45]]></Property>
+            <Property Type="Container" Name="Height"><![CDATA[value:90]]></Property>
+          </Properties>
+        </Asset>
+      </Collection>
+      <Asset Name="Image" Visual="DefaultImage" Style="" Container="Default" ContainerStyle="" Domain="value:Image">
+        <Properties>
+          <Property Type="Domain" Name="Source"><![CDATA[player://data/DefaultAssets/DefaultImage.png]]></Property>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:200]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:307]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:174]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:237]]></Property>
+        </Properties>
+      </Asset>
+      <Asset Name="Upload" Visual="Button" Style="Simple button" Container="Default" ContainerStyle="" Domain="value:VisibleTrigger">
+        <Attachments>
+          <EventTrigger EventType="Visual" EventName="Released">
+            <InvokeService Target="mashup://externals/Cloudinary%20Image%20Uploader/" Type="Domain" Name="UploadImage" Delay="value:0">
+              <ServiceValueParameter ParamName="filepath" Value="mashup://visuals/mashup_root_1/Default_template_for_Text_to_speech/Image/DomainComponent/Source" />
+            </InvokeService>
+          </EventTrigger>
+        </Attachments>
+        <Properties>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Visual" Name="BackgroundColor"><![CDATA[value:#FFFAFAFA]]></Property>
+          <Property Type="Visual" Name="Radius"><![CDATA[value:5]]></Property>
+          <Property Type="Visual" Name="Flat"><![CDATA[value:True]]></Property>
+          <Property Type="Visual" Name="PressedVeilColor"><![CDATA[value:#7F000000]]></Property>
+          <Property Type="Visual" Name="OutlineColor"><![CDATA[value:#FFB2B2B2]]></Property>
+          <Property Type="Visual" Name="Text"><![CDATA[value:Upload]]></Property>
+          <Property Type="Visual" Name="FontSize"><![CDATA[value:30]]></Property>
+          <Property Type="Visual" Name="Font">
+            <Typeface>
+              <Family>Verdana</Family>
+              <Stretch>normal</Stretch>
+              <Weight>400</Weight>
+              <Style>normal</Style>
+            </Typeface>
+          </Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Visual" Name="FontColor"><![CDATA[value:#FF565656]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:484]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:181]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:174]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:75]]></Property>
+        </Properties>
+      </Asset>
+      <Asset Name="[Error Message]" Visual="DefaultText" Style="" Container="Scale" ContainerStyle="" Domain="value:Text">
+        <Properties>
+          <Property Type="Container" Name="MinimizedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Container" Name="MinimizedPressedImage"><![CDATA[player://data/DefaultAssets/DefaultMinimized.png]]></Property>
+          <Property Type="Visual" Name="FontSize"><![CDATA[value:20]]></Property>
+          <Property Type="Visual" Name="Font">
+            <Typeface>
+              <Family>Verdana</Family>
+              <Stretch>normal</Stretch>
+              <Weight>400</Weight>
+              <Style>normal</Style>
+            </Typeface>
+          </Property>
+          <Property Type="Visual" Name="Italic"><![CDATA[value:True]]></Property>
+          <Property Type="Domain" Name="Text"><![CDATA[value:]]></Property>
+          <Property Type="Visual" Name="FontColor"><![CDATA[value:#FFEC0000]]></Property>
+          <Property Type="Visual" Name="Alignment"><![CDATA[value:Center]]></Property>
+          <Property Type="Visual" Name="VerticalAlignment"><![CDATA[value:Center]]></Property>
+          <Property Type="Container" Name="Orientation"><![CDATA[value:0]]></Property>
+          <Property Type="Container" Name="X"><![CDATA[value:314]]></Property>
+          <Property Type="Container" Name="Width"><![CDATA[value:576]]></Property>
+          <Property Type="Container" Name="Y"><![CDATA[value:360]]></Property>
+          <Property Type="Container" Name="Height"><![CDATA[value:96]]></Property>
+        </Properties>
+      </Asset>
+    </Collection>
+  </MashupCollection>
+  <MashupResource>
+    <Resource Key="2354050c-1f04-49f7-8af4-70413953e9a9" Type="uri" Length="381" LastModificationDate="2016-04-06T08:08:38.6628274Z" Archive="SmallFiles.zip" DefaultValue="player://data/Images/handle_released_1.png">
+      <Alternate Value="player://data/Generated/30d7a53422e92118514b3a1149948135.png" Width="54" Height="54" Length="325" LastModificationDate="2016-05-12T15:35:41.5833139Z" Archive="SmallFiles.zip" />
+    </Resource>
+  </MashupResource>
+  <MashupExternalAsset ContextAlias="ASSOCIATED_IA">
+    <ExternalAsset Name="Cloudinary Image Uploader" DescriptorPath="player://data/InterfaceAssets/Cloudinary%20Image%20Uploader/ImageUploader.ifd" ExternalAssetName="ImageUploader">
+      <Attachments>
+        <EventTrigger EventType="Domain" EventName="ErrorReceived">
+          <InvokeService Target="mashup://visuals/mashup_root_1/Default_template_for_Text_to_speech/[Error%20Message]/" Type="Domain" Name="SetText" Delay="value:0">
+            <ServiceArgumentParameter ParamName="value" ArgumentName="Message" />
+          </InvokeService>
+          <InvokeService Target="mashup://visuals/mashup_root_1/Default_template_for_Text_to_speech/[Error%20Message]/" Type="Container" Name="Show" Delay="value:0">
+            <ServiceValueParameter ParamName="animationType" Value="value:Fade" />
+            <ServiceValueParameter ParamName="dDuration" Value="value:0.5" />
+            <ServiceValueParameter ParamName="eTweeningTypes" Value="value:eEaseInOut" />
+            <ServiceValueParameter ParamName="nRunningCount" Value="value:1" />
+            <ServiceValueParameter ParamName="eRepeatBehavior" Value="value:eAutoReverse" />
+            <ServiceValueParameter ParamName="dDelayBeforeRepeat" Value="value:0" />
+            <ServiceValueParameter ParamName="bResetAtEnd" Value="value:False" />
+          </InvokeService>
+          <InvokeService Target="mashup://visuals/mashup_root_1/Default_template_for_Text_to_speech/[Error%20Message]/" Type="Container" Name="Hide" Delay="value:3">
+            <ServiceValueParameter ParamName="animationType" Value="value:Fade" />
+            <ServiceValueParameter ParamName="dDuration" Value="value:0.5" />
+            <ServiceValueParameter ParamName="eTweeningTypes" Value="value:eEaseInOut" />
+            <ServiceValueParameter ParamName="nRunningCount" Value="value:1" />
+            <ServiceValueParameter ParamName="eRepeatBehavior" Value="value:eAutoReverse" />
+            <ServiceValueParameter ParamName="dDelayBeforeRepeat" Value="value:0" />
+            <ServiceValueParameter ParamName="bResetAtEnd" Value="value:False" />
+          </InvokeService>
+        </EventTrigger>
+        <EventTrigger EventType="Domain" EventName="FileUploaded">
+          <InvokeService Target="mashup://visuals/mashup_root_1/Default_template_for_Text_to_speech/Success%20Group/" Type="Container" Name="Show" Delay="value:0">
+            <ServiceValueParameter ParamName="animationType" Value="value:Fade" />
+            <ServiceValueParameter ParamName="dDuration" Value="value:0.5" />
+            <ServiceValueParameter ParamName="eTweeningTypes" Value="value:eEaseInOut" />
+            <ServiceValueParameter ParamName="nRunningCount" Value="value:1" />
+            <ServiceValueParameter ParamName="eRepeatBehavior" Value="value:eAutoReverse" />
+            <ServiceValueParameter ParamName="dDelayBeforeRepeat" Value="value:0" />
+            <ServiceValueParameter ParamName="bResetAtEnd" Value="value:False" />
+          </InvokeService>
+        </EventTrigger>
+      </Attachments>
+      <Dependencies>
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/ImageUploader.ifd" Length="2942" LastModificationDate="2016-05-12T15:21:52.7679084Z" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/ImageUploader.dll" Length="8704" LastModificationDate="2016-05-04T15:42:50.2012829Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/CloudinaryDotNet.dll" Length="138752" LastModificationDate="2016-03-03T15:47:21.6314195Z" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Newtonsoft.Json.dll" Length="391680" LastModificationDate="2016-03-03T15:47:21.0613869Z" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/logo-cloudinary.png" Length="19369" LastModificationDate="2016-05-12T15:06:26.500929Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Default Cloudinary IA.dax" Length="19826" LastModificationDate="2016-05-12T15:27:36.3775617Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Default Cloudinary IA.png" Length="1064" LastModificationDate="2016-05-12T15:20:43.0619214Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/ImageUploader.pdb" Length="19968" LastModificationDate="2016-05-04T15:42:50.1832819Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Newtonsoft.Json.xml" Length="440219" LastModificationDate="2016-03-03T15:47:21.1123898Z" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Data/DefaultAssets/DefaultImage.png" Length="64259" LastModificationDate="2016-03-11T12:57:18.3681015Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Data/DefaultAssets/DefaultMinimized.png" Length="5250" LastModificationDate="2016-03-11T12:57:18.3691016Z" Archive="SmallFiles.zip" />
+        <Dependency URI="player://data/InterfaceAssets/Cloudinary Image Uploader/Data/Images/handle_released_1.png" Length="381" LastModificationDate="2016-04-06T08:08:38.6628274Z" Archive="SmallFiles.zip" />
+      </Dependencies>
+    </ExternalAsset>
+  </MashupExternalAsset>
+</Mashup>

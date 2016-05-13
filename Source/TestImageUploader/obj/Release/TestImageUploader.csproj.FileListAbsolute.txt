@@ -1,0 +1,18 @@
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\TestImageUploader.exe.config
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Data\DefaultAssets\DefaultImage.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Data\DefaultAssets\DefaultMinimized.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Data\Images\handle_released_1.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Default Cloudinary IA.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\ImageUploader.ifd
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\logo-cloudinary.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Default Cloudinary IA.dax
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\TestImageUploader.exe
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\TestImageUploader.pdb
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\ImageUploader.dll
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\CloudinaryDotNet.dll
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Newtonsoft.Json.dll
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\ImageUploader.pdb
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\bin\Release\Newtonsoft.Json.xml
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\obj\Release\TestImageUploader.csprojResolveAssemblyReference.cache
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\obj\Release\TestImageUploader.exe
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\TestImageUploader\obj\Release\TestImageUploader.pdb

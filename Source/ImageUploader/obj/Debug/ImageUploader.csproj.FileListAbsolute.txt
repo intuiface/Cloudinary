@@ -1,0 +1,15 @@
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\ImageUploader.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\ImageUploader.pdb
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\CloudinaryDotNet.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Newtonsoft.Json.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Newtonsoft.Json.xml
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\obj\Debug\ImageUploader.csprojResolveAssemblyReference.cache
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\obj\Debug\ImageUploader.dll
+c:\users\seb meunier\documents\visual studio 2013\Projects\ImageUploader\ImageUploader\obj\Debug\ImageUploader.pdb
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\ImageUploader.ifd
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Data\DefaultAssets\DefaultImage.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Data\DefaultAssets\DefaultMinimized.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Data\Images\handle_released_1.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Default Cloudinary IA.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\logo-cloudinary.png
+C:\Users\Seb Meunier\Documents\Visual Studio 2013\Projects\ImageUploader\ImageUploader\bin\Debug\Default Cloudinary IA.dax
