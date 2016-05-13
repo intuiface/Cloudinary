@@ -1,0 +1,91 @@
+{
+    "kind": "discovery#restDescription",
+    "discoveryVersion": "v1",
+    "id": "ImageUploader",
+    "name": "Cloudinary Image Uploader",
+    "if.category":  "Media Upload",
+    "version": "1.0",
+    "protocol": "dll",
+    "baseUrl": null,
+    "basePath": "ImageUploader",
+    "auth": { },
+    "dependencies": [
+        "ImageUploader.dll",
+        "CloudinaryDotNet.dll",
+        "Newtonsoft.Json.dll"
+    ],
+	"icons": {
+		"x32": "logo-cloudinary.png"
+	},
+    "schemas": {
+        "ImageUploader": {
+            "id": "ImageUploader",
+            "type": "object",
+            "properties": {
+                "LastUploadedImageURL": {
+                    "title": "Last uploaded image URL",
+                    "type": "string",
+                    "readonly": true
+                },
+                "CloudName": {
+                    "title": "Cloud name",
+                    "type": "string"
+                },
+                "Apikey": {
+                    "title": "API key",
+                    "type": "string"
+                },
+                "ApiSecret": {
+                    "title": "API secret",
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "resources": {
+        "ImageUploader": {
+            "title": "Cloudinary Image Uploader",
+            "isInterfaceAsset": true,
+			"if.templateDesignAccelerator": "Default Cloudinary IA.dax",
+            "description":  "Upload an image to your Cloudinary storage and return a URL.",
+            "methods": {
+                "UploadImage": {
+                    "title": "Upload image",
+                    "description": "Uploads an image to your Cloudinary storage.",
+                    "response": {
+                        "type": "null"
+                    },
+                    "parameters": {
+                        "filepath": {
+                            "type": "string",
+                            "title": "Image URI",
+                            "required": true
+                        }
+                    }
+                }
+            },
+            "events": {
+                "FileUploaded": {
+                    "id": "FileUploaded",
+                    "title": "Image uploaded",
+                    "properties": {
+                        "Message": {
+                            "type": "string",
+                            "title": "Image URL"
+                        }
+                    }
+                },
+                "ErrorReceived": {
+                    "id": "ErrorReceived",
+                    "title": "Image upload failed",
+                    "properties": {
+                        "Message": {
+                            "type": "string",
+                            "title": "Error Message"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
