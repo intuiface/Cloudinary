@@ -41,7 +41,7 @@ To be able to add Cloudinary Image Uploader Interface Assets in IntuiFace Compos
 
 
 
-See more information on our support webpage: [TODO](http://www.support.intuilab.com/kb)
+See more information on our [support webpage](http://support.intuilab.com/kb/interface-assets/upload-an-image-to-cloudinary)
 
 -----
 
