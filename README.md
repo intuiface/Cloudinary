@@ -16,7 +16,7 @@ The purpose of this .NET Interface Asset is to enable an IntuiFace experience to
 
 In Composer: 
 
-![Cloudinary IA Properties](Resources/Cloudinary-IA-properties.jpg "Cloudinary IA Properties" "width:350px")
+![Cloudinary IA Properties](Resources/Cloudinary-IA-properties.jpg)
 
 
 # How to build this project?
