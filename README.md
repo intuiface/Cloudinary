@@ -12,7 +12,7 @@ The purpose of this .NET Interface Asset is to enable an IntuiFace experience to
 * API key
 * API secret
 
-![Cloudinary Dashboard](Resources/cloudinary-dashboard.jpg "Cloudinary Dashboard" "width:350px")
+![Cloudinary Dashboard](Resources/cloudinary-dashboard.jpg)
 
 In Composer: 
 
