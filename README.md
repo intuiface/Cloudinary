@@ -2,7 +2,7 @@
 
 This project contains Cloudinary Interface Asset for IntuiFace Player & IntuiFace Composer.
 
-The purpose of this .NET Interface Asset is to enable an IntuiFace experience to upload an image during runtime to a cloud service. The image URL can then be used either combined with a [QR Code Encoder](http://support.intuilab.com/kb/interface-assets/interface-asset-qr-code) or sent in an email body with the [Share via Email](http://support.intuilab.com/kb/interface-assets/share-assets-via-email) Interface Assets. 
+The purpose of this .NET Interface Asset is to enable an IntuiFace experience to upload an image during runtime to a cloud service. The image URL can then be used either combined with a [QR Code Encoder](https://support.intuiface.com/hc/en-us/articles/360007179832-Interface-Asset-QR-Code) or sent in an email body with the [Share via Email](https://support.intuiface.com/hc/en-us/articles/360007430911-Interface-Asset-Share-via-Email) Interface Assets. 
 
 # Prerequisite: Cloudinary account
 
@@ -35,16 +35,16 @@ To build this project, follow these steps:
 
 To be able to add Cloudinary Image Uploader Interface Assets in IntuiFace Composer, follow these steps: 
 
-* Copy the **CloudinaryImageUploader** folder from the **OutputAssemblies** to the path "[Drive]:\Users\\[UserName]\Documents\IntuiFace\Interface Assets",
+* Copy the **CloudinaryImageUploader** folder from the **OutputAssemblies** to the path "[Drive]:\Users\\[UserName]\Documents\Intuiface\Interface Assets",
 * Launch **IntuiFace Composer**,
 * Add an Interface Asset and when you enter "Cloudinary" in the search bar, you can see the **Cloudinary Image Uploader** Interface Asset.
 
 
 
-See more information on our [support webpage](http://support.intuilab.com/kb/interface-assets/upload-an-image-to-cloudinary)
+See more information on our [support webpage](https://support.intuiface.com/hc/en-us/articles/360007430751-Upload-an-image-to-Cloudinary)
 
 -----
 
-Copyright &copy; 2016 IntuiLab.
+Copyright &copy; 2016-2020 Intuiface.
 
 Released under the **MIT License**.
